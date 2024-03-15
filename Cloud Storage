@@ -1,0 +1,15 @@
+export ZONE=
+
+export PROJECT_ID_1=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Cloud%20Storage/techcps1.sh
+sudo chmod +x techcps1.sh
+./techcps1.sh
+
+export ZONE=
+
+export PROJECT_ID_2=
+
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Cloud%20Storage/techcps2.sh
+sudo chmod +x techcps2.sh
+./techcps2.sh
